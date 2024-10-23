@@ -1,0 +1,12 @@
+Quickstart
+To run the Gradio app, follow these instructions:
+
+python3 -m venv venv
+source venv/bin/activate
+pip3 install -r requirements.txt
+export GROQ_API_KEY=gsk...
+python3 app.py
+
+keterangan:
+untuk menjalankan dua output python commend response dihidupkan kembali beserta function-nya dan juga untuk frontend-nya dihidupkan kembali
+krn saat ini saya hanya menggunakan satu output hanya keperluan sementara
